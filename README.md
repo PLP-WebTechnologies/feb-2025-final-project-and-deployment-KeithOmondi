@@ -22,4 +22,4 @@ This is a responsive, multipage portfolio website built using HTML5, CSS3, and J
 
 ## 🌐 Live URL
 
-[Insert your deployment URL here once live]
+[https://keithomondi.netlify.app/]
