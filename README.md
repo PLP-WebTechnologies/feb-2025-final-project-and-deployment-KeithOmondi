@@ -1,25 +1,25 @@
-# Final Project and Deployment
+# Keith Omondi - Personal Portfolio
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+This is a responsive, multipage portfolio website built using HTML5, CSS3, and JavaScript.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🔧 Features
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+- Home, About, and Contact pages
+- Responsive design using media queries
+- Form validation with JavaScript
+- Deployed live using [GitHub Pages / Netlify / Vercel]
 
-## Tasks
+## 💻 Technologies Used
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- HTML5 for semantic markup
+- CSS3 for styling and layout
+- JavaScript for interactivity (form validation)
 
-Good luck and happy coding! 🚀💻
+## 🚀 How to Run Locally
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## 🌐 Live URL
+
+[Insert your deployment URL here once live]
